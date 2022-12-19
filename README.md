@@ -4,7 +4,7 @@
 - 👀 I’m interested in machine learning in biometrics, as well as machine learning on the embedded space
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on TinyML and computer vision projects
-- 📫 How to reach me <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50" href=mailto:"berkanh@gmail.com">
+- 📫 How to reach me <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="50" height="50">
 
 
 
