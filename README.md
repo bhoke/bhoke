@@ -1,9 +1,7 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+👋 Hi, I’m Berkan Höke, I am a computer vision engineer who loves to share side projectsas open-source. 
+I am mostly publishing source codes about embedded machine learning, but not limited to that. 
 
-- 👋 Hi, I’m Berkan Höke
-- 👀 I’m interested in machine learning in biometrics, as well as machine learning on the embedded space
-- 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on TinyML and computer vision projects
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoke)
 
 
 <!---
