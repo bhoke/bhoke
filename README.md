@@ -2,7 +2,7 @@
 I am mostly publishing source codes about embedded machine learning, but not limited to that. 
 
   ![Bhoke GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoke)
-  ![EmbeddedML GitHub stats](https://github-readme-stats.vercel.app/api?username=embeddedml)
+  ![EmbeddedML GitHub stats](https://github-readme-stats.vercel.app/api?username=EmbeddedML)
 
 
 <!---
