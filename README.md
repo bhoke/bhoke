@@ -1,4 +1,4 @@
-👋 Hi, I’m Berkan Höke, I am a computer vision engineer who loves to share side projectsas open-source. 
+👋 Hi, I’m Berkan Höke, I am a computer vision engineer who loves to share side projects as open-source. 
 I am mostly publishing source codes about embedded machine learning, but not limited to that. 
 
   ![bhoke GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=bhoke&include_orgs=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER,MEMBER)
